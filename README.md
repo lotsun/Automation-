@@ -1,2 +1,2 @@
 # Automation
-Automate by using pytho
+Automate by using pyth
