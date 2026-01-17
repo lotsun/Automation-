@@ -1,2 +1,2 @@
 # Automation
-Automate by using pyt
+Automate by using python
