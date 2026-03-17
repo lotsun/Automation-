@@ -9,4 +9,4 @@ Extensive Libraries for automation. <br>
 	•	Schedule – for task scheduling<br>
 	•	Selenium – for web automation<br>
 	•	Pandas – for data processing<br>
-	•	Paramiko – for automating SSH connections<br>
+	•	Paramiko – for automating SSH connections.<br>
